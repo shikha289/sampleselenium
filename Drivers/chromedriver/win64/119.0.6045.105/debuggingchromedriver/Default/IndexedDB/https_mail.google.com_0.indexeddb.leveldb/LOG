@@ -1,0 +1,6 @@
+2024/02/13-16:37:20.671 990 Reusing MANIFEST C:\Users\lenovo\Desktop\intellij\maven\sampleselenium\Drivers\chromedriver\win64\119.0.6045.105\debuggingchromedriver\Default\IndexedDB\https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/02/13-16:37:20.673 990 Recovering log #27
+2024/02/13-16:37:20.760 990 Reusing old log C:\Users\lenovo\Desktop\intellij\maven\sampleselenium\Drivers\chromedriver\win64\119.0.6045.105\debuggingchromedriver\Default\IndexedDB\https_mail.google.com_0.indexeddb.leveldb/000027.log 
+2024/02/13-16:37:40.625 990 Level-0 table #33: started
+2024/02/13-16:37:40.789 990 Level-0 table #33: 2796034 bytes OK
+2024/02/13-16:37:40.797 990 Delete type=0 #27

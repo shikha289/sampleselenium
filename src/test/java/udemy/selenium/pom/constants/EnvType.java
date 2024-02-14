@@ -1,0 +1,6 @@
+package udemy.selenium.pom.constants;
+
+public enum EnvType {
+    PRODUCTION,
+    STAGE
+}

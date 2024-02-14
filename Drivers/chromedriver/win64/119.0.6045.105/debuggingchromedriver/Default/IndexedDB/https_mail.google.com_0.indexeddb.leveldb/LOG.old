@@ -1,0 +1,9 @@
+2024/02/13-16:32:06.964 990 Reusing MANIFEST C:\Users\lenovo\Desktop\intellij\maven\sampleselenium\Drivers\chromedriver\win64\119.0.6045.105\debuggingchromedriver\Default\IndexedDB\https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/02/13-16:32:06.965 990 Recovering log #27
+2024/02/13-16:32:06.973 990 Reusing old log C:\Users\lenovo\Desktop\intellij\maven\sampleselenium\Drivers\chromedriver\win64\119.0.6045.105\debuggingchromedriver\Default\IndexedDB\https_mail.google.com_0.indexeddb.leveldb/000027.log 
+2024/02/13-16:32:17.923 121c Compacting 1@1 + 1@2 files
+2024/02/13-16:32:18.022 121c Generated table #30@1: 75 keys, 100551 bytes
+2024/02/13-16:32:18.022 121c Compacted 1@1 + 1@2 files => 100551 bytes
+2024/02/13-16:32:18.033 121c compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/02/13-16:32:18.035 121c Delete type=2 #25
+2024/02/13-16:32:18.036 121c Delete type=2 #28
