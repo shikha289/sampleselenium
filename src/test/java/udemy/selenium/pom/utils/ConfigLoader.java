@@ -1,7 +1,5 @@
 package udemy.selenium.pom.utils;
-
 import udemy.selenium.pom.constants.EnvType;
-
 import java.util.Properties;
 
 public class ConfigLoader {

@@ -304,4 +304,27 @@ System.out.println("palindrome");
            max = Math.max(max, count+1);
         }
         System.out.println(max);*/
+        //character frequency in a string
+       /* String str = "hello world";
+        int[] temp = new int[256]; // Array to store character count
+        char[] chars = str.toCharArray();
+        for (char ch : chars) {
+            temp[ch]++;
+        }
+        // Print the character frequency
+        System.out.println("Character frequencies in the string \"" + str + "\":");
+        for (int i = 0; i < 256; i++) {
+            if (temp[i] != 0) {
+                System.out.println("'" + (char) i + "' : " + temp[i]);
+            }}*/
+        String s="lellllol";
+        char ch[]=s.toCharArray();
+        int counter=0;
+        for (int i=0;i<=s.length()-1;i++){
+            if (s.charAt(i)=='l'){
+                counter++;
+            }
+        }System.out.println(counter);
+
+
         }}
