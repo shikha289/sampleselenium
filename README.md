@@ -1,2 +1,2 @@
 # sampleselenium
-udemy framework
+Deepa Yadav- selenium, java, testng and restassured based framework
