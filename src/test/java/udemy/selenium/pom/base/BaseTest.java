@@ -43,7 +43,7 @@ public class BaseTest {
     @BeforeMethod
     public void StartDriver(@Optional String browser){
         browser=System.getProperty("browser",browser);//default value taking from testng.xml
-        //if (browser==null) browser="CHROME";//hard coded bcoz not using testng
+       // if (browser==null) browser="CHROME";//hard coded bcoz not using testng
         //setDriver(new DriverManagerOriginal().initializeDriver(browser));
         // setDriver(DriverManagerFactory.getManager(DriverType.valueOf(browser)).createDriver());//usingfactorypattern
        setDriverManager( DriverManagerFactoryAbstract.getManager(DriverType.valueOf(browser)));

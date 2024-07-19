@@ -1,12 +1,17 @@
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
 <suite name ="suite1" verbose="1" thread-count="2" parallel="tests">
-   <!-- <test name="firefox" thread-count="2" parallel="methods" >
+   <test name="firefox" thread-count="2" parallel="methods" >
 
         <parameter name="browser" value="FIREFOX"></parameter>
         <classes>
-            <class name="udemy.selenium.pom.tests.MyFirstTestCase"></class>
+            <class name="udemy.selenium.pom.tests.AddToCartTest">
+                <methods>
+                    <include name="addToCartFromStorePage"/>
+                </methods>
+            </class>
+            <!--class name="udemy.selenium.pom.tests.MyFirstTestCase"></class-->
         </classes>
-    </test>-->
+    </test>
     <test name="chrome" thread-count="6" parallel="methods">
         <parameter name="browser" value="CHROME"/>
          <!--packages>

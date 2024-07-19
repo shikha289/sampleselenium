@@ -140,9 +140,9 @@
         <configuration>
          <!-- <parallel>methods</parallel>
           <threadCount>2</threadCount>-->
-          <suiteXmlFiles>
+          <!--suiteXmlFiles>
             <suiteXmlFile>testng.xml</suiteXmlFile>
-          </suiteXmlFiles>
+          </suiteXmlFiles-->
         </configuration>
       </plugin>
         <plugin>
